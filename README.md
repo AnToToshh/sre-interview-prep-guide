@@ -44,6 +44,7 @@ Contributions are always welcome!
 - [ ] [Ядро Linux](https://ravesli.com/linux-kernel/)
 - [ ] [Что такое ядро Linux](https://losst.pro/chto-takoe-yadro-linux)
 - [ ] [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
+- [ ] [Пространство ядра и пространство пользователя](https://russianblogs.com/article/52641591816/)
 - [ ] [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html)
 - [ ] [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html)
 - [ ] [Linux Kernel Memory Management](http://learnlinuxconcepts.blogspot.com/2014/02/linux-memory-management.html)
