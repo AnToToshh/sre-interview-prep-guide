@@ -36,7 +36,7 @@ Contributions are always welcome!
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
 - [ ] [Команда Mount](https://losst.pro/montirovanie-diska-v-linux)
 - [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
-- [ ] [еще профайловые сситемы Linux])https://ravesli.com/linux-file-systems/)
+- [ ] [еще профайловые сситемы Linux](https://ravesli.com/linux-file-systems/)
 
 ### Kernel
 
