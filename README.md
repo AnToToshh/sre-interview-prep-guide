@@ -33,6 +33,7 @@ Contributions are always welcome!
 - [ ] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 (https://losst.pro/fajlovaya-sistema-proc-v-linux#Что_такое_proc - на русском)
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
+- [ ] [Команда Mount](https://losst.pro/montirovanie-diska-v-linux)
 - [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
 
 ### Kernel
