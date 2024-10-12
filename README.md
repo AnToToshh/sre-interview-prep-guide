@@ -9,7 +9,7 @@ Contributions are always welcome!
 
 ## Basics
 
-- [ ] Simple: [Что происходит, когда вы вводите адресс в своём браузере?]([https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser](https://habr.com/ru/companies/karuna/articles/568702/))
+- [ ] Simple: [Что происходит, когда вы вводите адресс в своём браузере?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser](https://habr.com/ru/companies/karuna/articles/568702/))
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
