@@ -27,7 +27,7 @@ Contributions are always welcome!
 
 ### Filesystem
 
-- [ ] [Понимание индексов (Understanding Inodes)](https://syedali.net/2015/02/08/understanding-inodes) 
+- [ ] [Понимание индексов (Understanding Inodes)](https://syedali.net/2015/02/08/understanding-inodes) - https://losst.pro/chto-takoe-inode 
 - [ ] [Понимание Inode](https://losst.pro/chto-takoe-inode)
 - [ ] [Типы файловых систем, их предназначение и отличия](https://timeweb.com/ru/community/articles/tipy-faylovyh-sistem-ih-prednaznachenie-i-otlichiya)
 - [ ] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
