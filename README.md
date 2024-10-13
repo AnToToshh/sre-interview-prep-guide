@@ -19,7 +19,7 @@ Contributions are always welcome!
 ### Boot Process
 
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
-   (https://habr.com/ru/companies/otus/articles/424761/ - ру версия)
+   ([https://habr.com/ru/companies/otus/articles/424761/](https://proninyaroslav.gitbooks.io/linux-insides-ru/content/Booting/linux-bootstrap-1.html) - эта статья лучше)
 - [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
 - [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
